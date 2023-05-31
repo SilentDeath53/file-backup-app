@@ -1,1 +1,2 @@
-# file-backup-app
+# File Backup App
+A simple file backup application.
